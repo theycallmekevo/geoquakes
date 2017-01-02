@@ -1,8 +1,12 @@
 .container {
-  padding-bottom: 50px;
+  padding-bottom: 10px;
 }
 
 #map {
   height: 600px;
   margin-top: 20px;
+}
+
+#info2 {
+  padding-bottom: 50px;
 }
